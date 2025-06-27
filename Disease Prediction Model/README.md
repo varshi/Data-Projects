@@ -1,4 +1,4 @@
-Disease Prediction Project
+Disease Prediction Project:
 This project focuses on building a model to predict diseases based on symptoms using various machine learning techniques.
 
 Project Steps:
