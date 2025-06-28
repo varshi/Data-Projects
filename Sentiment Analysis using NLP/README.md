@@ -8,10 +8,10 @@ This project analyzes user sentiment from app reviews using Natural Language Pro
 
 ```
 Sentiment Analysis using NLP/
-├── Sentiment_Analysis_Final.ipynb     # Final Google Colab notebook
-├── sample_app_reviews.csv             # Dataset used (offline-safe)
-├── Project_Report.docx                # Formal project writeup
-└── README.md                          # You're reading it!
+├── Sentiment_Analysis_Final.ipynb     
+├── sample_app_reviews.csv             
+├── Project_Report.docx                
+└── README.md                         
 ```
 
 ---
