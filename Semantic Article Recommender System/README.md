@@ -15,7 +15,7 @@ This project focuses on developing a **Semantic Article Recommender System** usi
 
 ## 🛠️ Tech Stack
 
-- Python
+- Python 3.10.x
 - Jupyter Notebook / Google Colab
 - NLP: NLTK, spaCy
 - ML: Scikit-learn (TF-IDF, TruncatedSVD, Cosine Similarity)
