@@ -4,17 +4,6 @@ This project analyzes user sentiment from app reviews using Natural Language Pro
 
 ---
 
-## 📁 Project Structure
-
-```
-Sentiment Analysis using NLP/
-├── Sentiment_Analysis_Final.ipynb     
-├── sample_app_reviews.csv             
-├── Project_Report.docx                
-└── README.md                         
-```
-
----
 
 ## 🎯 Objective
 
