@@ -66,6 +66,6 @@ Potential next steps include:
 
 ## Author
 
-Varshith.A
+Varshith A
 [https://github.com/varshi]
 
