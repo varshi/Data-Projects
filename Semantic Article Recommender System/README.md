@@ -9,7 +9,7 @@ This project focuses on developing a **Semantic Article Recommender System** usi
 - Built a recommender system that uses **TF-IDF** and **Latent Semantic Indexing (LSI)** to capture the semantic meaning of articles.
 - Preprocessed articles using **NLTK** and **spaCy** for lemmatization, stopword removal, and tokenization.
 - Used **cosine similarity** to match the query with the most relevant articles.
-- Evaluated the model using **Mean Average Precision (MAP)**, tuning it to achieve a final MAP of approximately **0.83**.
+- Evaluated the model using **Mean Average Precision (MAP)**, tuning it to achieve a final MAP of approximately **0.81**.
 
 ---
 
@@ -44,7 +44,7 @@ This project focuses on developing a **Semantic Article Recommender System** usi
 ### 5. Evaluation
 - **Mean Average Precision (MAP)** used as evaluation metric.
 - Manually assigned relevant indices for each query.
-- Final MAP tuned to ≈ **0.83** by adjusting relevance scores.
+- Final MAP tuned to ≈ **0.81** by adjusting relevance scores.
 
 ---
 
@@ -58,7 +58,7 @@ Top 5 Recommended Articles:
 3. Article 21 - Challenges in Healthcare Automation  
 ...
 
-MAP Score: 0.83
+MAP Score: 0.81
 
 ---
 
